@@ -6,6 +6,5 @@
 - 🔴 Mexicano
 - 🔍 Me interesa colaborar con personas que busquen transparencia en datos de nuestro país.
 <!---
-noeasc/noeasc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Me llamo Noé, me interesa mucho el desarrollo de Web Apps y la transparencia de datos públicos.
 --->
